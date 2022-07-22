@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Start projects to post on Github<br>🎲 Fun fact: I really like games and soccer<br>📕 University: Studying Information Systems<br><br>Currently IT Intern at Ubook.</h6>
+<h4 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Start projects to post on Github<br>🎲 Fun fact: I really like games and soccer<br>📕 University: Studying Information Systems<br><br>Currently IT Intern at Ubook.</h4>
 
 ###
 
