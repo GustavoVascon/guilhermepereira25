@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/guilherme-pereira25/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="45" alt="linkedin logo"  />
   </a>
-  <a href=""guilhermepereiradv@gmail.com"" target="_blank">
+  <a href="mailto:"guilhermepereiradv@gmail.com"" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="45" alt="gmail logo"  />
   </a>
 </div>
